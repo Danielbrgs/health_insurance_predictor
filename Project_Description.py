@@ -10,7 +10,7 @@ st.sidebar.header('Project Description')
 st.write("# Welcome to the Insurance Prediction App 🩺")
 st.write("\n\n")
 
-st.image('img\health_insurance_img.jpg')
+st.image('health_insurance_img.jpg')
 st.write("\n\n")
 
 st.markdown(
